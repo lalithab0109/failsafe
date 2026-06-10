@@ -260,30 +260,6 @@ frontend/
 
 ---
 
-## 📸 Screenshots
-
-### Dashboard
-
-(Add Screenshot)
-
-### Student Risk Prediction
-
-(Add Screenshot)
-
-### SHAP Risk Analysis
-
-(Add Screenshot)
-
-### Personalized Interventions
-
-(Add Screenshot)
-
-### Class Analysis Dashboard
-
-(Add Screenshot)
-
----
-
 ## ⚙️ Installation
 
 ### Backend
